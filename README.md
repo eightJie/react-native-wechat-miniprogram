@@ -2,6 +2,8 @@
 
 # React-Native-Wechat
 
+### 为了支持分享小程序卡片，参考 `https://www.jianshu.com/p/1e52e37f5a29` 进行改造
+
 [React Native] bridging library that integrates WeChat SDKs:
 
 - [x] iOS SDK 1.7.2
